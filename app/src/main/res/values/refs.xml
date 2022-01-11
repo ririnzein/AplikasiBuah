@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="c_plus_plus" />
+    <drawable name="c_sharp" />
+    <drawable name="java" />
+    <drawable name="javascript" />
+</resources>

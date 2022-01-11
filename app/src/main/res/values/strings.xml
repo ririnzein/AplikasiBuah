@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AplikasiBuah</string>
+
+    <string-array name="programing_languages">
+        <item>buah1</item>
+        <item>buah2</item>
+        <item>buah4</item>
+        <item>buah5</item>
+        <item>buah6</item>
+        <item>buah7</item>
+        <item>buah8</item>
+        <item>buah9</item>
+        <item>buah10</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+    </string-array>
+
+</resources>
